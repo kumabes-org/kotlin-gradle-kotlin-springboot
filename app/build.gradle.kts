@@ -6,7 +6,7 @@ plugins {
 	kotlin("jvm") version "1.8.0"
 	kotlin("plugin.spring") version "1.8.0"
 	kotlin("plugin.jpa") version "1.8.0"
-	id("io.gitlab.arturbosch.detekt") version "1.0.0.RC6-3"
+	id("io.gitlab.arturbosch.detekt") version "1.22.0"
 }
 
 group = "br.com.kumabe"
