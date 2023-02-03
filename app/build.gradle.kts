@@ -4,7 +4,7 @@ plugins {
 	id("org.springframework.boot") version "2.7.8-SNAPSHOT"
 	id("io.spring.dependency-management") version "1.1.0"
 	kotlin("jvm") version "1.8.0"
-	kotlin("plugin.spring") version "1.8.0"
+	kotlin("plugin.spring") version "1.8.10"
 	kotlin("plugin.jpa") version "1.8.0"
 	id("io.gitlab.arturbosch.detekt") version "1.0.0.RC6-3"
 }
